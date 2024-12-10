@@ -1,0 +1,7 @@
+{
+  "name": "WEGENS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
